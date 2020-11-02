@@ -1,0 +1,6 @@
+int a = 1
+
+loop(a){
+	int b = 5
+}
+print(b)

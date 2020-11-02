@@ -1,0 +1,4 @@
+int a = 4 + 5 * 2
+
+//output should be 14, NOT 18
+print(a)

@@ -1,0 +1,8 @@
+boolean yes = true
+boolean no = false
+
+if(no && yes){
+    print("Wrong branch")
+} else {
+    print("the AND operator works")
+}

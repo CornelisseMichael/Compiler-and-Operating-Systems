@@ -1,0 +1,6 @@
+int aa = 10
+
+increment(string test, int a){
+    print(test)
+    return a + 1
+}

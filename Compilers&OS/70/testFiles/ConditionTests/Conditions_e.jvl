@@ -1,0 +1,8 @@
+boolean yes = true
+boolean no = false
+
+if(no || yes){
+    print("the OR operator works")
+} else {
+    print("its broken")
+}

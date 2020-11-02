@@ -1,0 +1,10 @@
+int a = 8
+boolean b = false
+
+if(a < 6) {
+    print("ifStatement Executed")
+} else if (!b) {
+    print("elseIfStatement Executed")
+} else {
+    print("elseStatement Executed")
+}

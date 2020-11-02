@@ -1,0 +1,4 @@
+string s = "test"
+loop(s){
+    print("You should not see this")
+}

@@ -1,0 +1,10 @@
+int a = 1
+
+loop(10){
+    a = calculateProduct(a, 2)
+    print(a)
+}
+
+calculateProduct(int a, int b){
+    return a * b
+}

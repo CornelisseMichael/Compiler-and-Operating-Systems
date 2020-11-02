@@ -1,0 +1,4 @@
+//this comment should not mess up the compilation and should not generate any code.
+string s = input(string)
+
+print(s)

@@ -1,0 +1,4 @@
+int notAboolean = 0
+if(notAboolean){
+    print("wrong")
+}

@@ -1,0 +1,9 @@
+print("How old are you?")
+
+int age = input(int)
+
+if(age >= 18){
+    print("You are old enough to buy alcohol.")
+} else{
+    print("You are not old enough to buy alcohol.")
+}
